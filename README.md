@@ -25,5 +25,9 @@ This covid application extracts international data on the Novel Covid-19 virus. 
 - MaterialUI
 - propType
 
+## API(I used serveral sources, all can be found here)
+https://documenter.getpostman.com/view/11144369/Szf6Z9B3?version=latest#33445070-0295-48c5-8b2b-8949d7fcee7a
 
+## Deployment
+- Not yet deployed
 
