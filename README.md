@@ -1,4 +1,4 @@
-# Covid Application
+# Covid Application(Pre-Alpha Stage)
 This covid application extracts international data on the Novel Covid-19 virus. It attempts to quantify the impact of the virus by country. At the moment, its in early stages of development and more will be add.
 
 ## Version
@@ -16,5 +16,14 @@ This covid application extracts international data on the Novel Covid-19 virus. 
 - Use Google image API to attach images to the country
 
 ## Install App
-- 
+- https://github.com/bliu104/covid.git
+- npm install
+- npm start
+
+## Packages
+- React framework
+- MaterialUI
+- propType
+
+
 
