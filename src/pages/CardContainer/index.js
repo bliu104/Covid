@@ -32,8 +32,6 @@ const CardContainer = () => {
     return array;
   };
 
-  console.log(show);
-
   return (
     <Box paddingLeft="-12px" display="flex" flexWrap="wrap">
       {internationalData &&

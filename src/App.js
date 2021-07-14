@@ -13,7 +13,7 @@ function App() {
     jhucsse().then((response) => {
       setInternationalData(response.data);
     });
-  }, []);
+  }, [setInternationalData]);
 
   return (
     <ThemeProvider theme={theme}>
