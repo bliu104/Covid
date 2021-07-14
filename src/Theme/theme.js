@@ -1,7 +1,6 @@
 import { createTheme } from "@material-ui/core/styles";
 
 const font = "'Roboto', sans-serif;";
-const raleway = "'Raleway', sans-serif";
 const IBM = "'IBM Plex Mono', monospace";
 
 let theme = createTheme({

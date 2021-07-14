@@ -1,6 +1,5 @@
-import React, { useState, useContext, useEffect } from "react";
-import { Box, Typography, Paper } from "@material-ui/core";
-import Card from "../../Components/Card";
+import React, { useState, useContext } from "react";
+import { Box, Typography } from "@material-ui/core";
 import Dialog from "../../Components/Dialog";
 import { DataContext } from "../../Context/dataContext";
 
