@@ -29,5 +29,5 @@ This covid application extracts international data on the Novel Covid-19 virus. 
 https://documenter.getpostman.com/view/11144369/Szf6Z9B3?version=latest#33445070-0295-48c5-8b2b-8949d7fcee7a
 
 ## Deployment
-- Not yet deployed
+- https://pandemicbobby.netlify.app/
 
